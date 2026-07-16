@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Hammad Khan 👋
 
-<!--
-**hammadkhan010101/hammadkhan010101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Web Developer from India
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Skilled in PHP, Laravel, MySQL, JavaScript, HTML, CSS, Bootstrap & jQuery
+- ⚛️ Currently learning the MERN Stack
+- 🔧 Passionate about building scalable and user-friendly web applications
+- 📚 Continuously improving my problem-solving and backend development skills
+- 🎯 Looking for Full Stack / PHP Laravel Developer opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- jQuery
+- PHP
+- Laravel
+- MySQL
+- Git & GitHub
+
+## 📌 Featured Projects
+
+### 🔄 SwapEx
+A rental and exchange marketplace where users can:
+- Rent products
+- Exchange products
+- Buy & Sell items
+- Secure user authentication
+- Request management
+- Wallet & payment integration
+
+### 👥 Social Media Platform
+Built during my internship with features like:
+- User Profiles
+- Posts
+- Likes & Comments
+- Friend Requests
+- Chat System
+
+## 📫 Connect with Me
+
+📧 Email: hakhan00900@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
